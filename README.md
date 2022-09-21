@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=F2F7ED&background=FFEFE65C&center=true&vCenter=true&height=150&width=835&lines=Gafurov+Tariel)](https://git.io/typing-svg)
 
-<!--
-**tarielgafurov/tarielgafurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div style="text-Align:center"> Hi there 👋 , my name is Tariel</div>
 
-Here are some ideas to get you started:
+## <p style="text-Align:center">I'm a Junior Frontend developer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Connect with me:
+
+### [<img src="./img/telegram.png" >][social] [<img src="./img/Ln.png" >][social2] [<img src="./img/gmail.png" >][social3]
+
+<br>
+
+### Languages and Tools:
+
+### <img src="./img/html.png" alt="photot" /> <img src="./img/css.png" alt="photot"/> <img src="./img/javascript.png" alt="photot"> <img alt="photot" src="./img/react.png"> <img alt="photot" src="./img/redux.png"> <img alt="photot" src="./img/firebase.png"> <img alt="photot" src="./img/material-ui.png"> <img style="height:50" alt="photot" src="./img/github-64.png"> <img style="height:45; width:45" alt="photot" src="./img/atom.png">
+
+[social]: https://t.me/Gafurov_Tariel
+[social2]: linkedin.com/in/tariel-gafurov-b6782a23b
+[social3]: gafurovtariel618@gmail.com
