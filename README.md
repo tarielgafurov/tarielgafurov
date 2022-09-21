@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-### <img src="./img/html.png" alt="photot" /> <img src="./img/css.png" alt="photot"/> <img src="./img/javascript.png" alt="photot"> <img alt="photot" src="./img/react.png"> <img alt="photot" src="./img/redux.png"> <img alt="photot" src="./img/firebase.png"> <img alt="photot" src="./img/material-ui.png"> <img style="height:50" alt="photot" src="./img/github-64.png"> <img style="height:45; width:45" alt="photot" src="./img/atom.png">
+### <img src="./img/html.png" alt="photot" /> <img src="./img/css.png" alt="photot"/> <img src="./img/javascript.png" alt="photot"> <img alt="photot" src="./img/react.png"> <img alt="photot" src="./img/redux.png"> <img alt="photot" src="./img/firebase.png"> <img alt="photot" src="./img/material-ui.png"> <img style="height:50" alt="photot" src="./img/github-64.png">
 
 [social]: https://t.me/Gafurov_Tariel
 [social2]: linkedin.com/in/tariel-gafurov-b6782a23b
