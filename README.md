@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=F2F7ED&background=FFEFE65C&center=true&vCenter=true&height=150&width=835&lines=Gafurov+Tariel)](https://git.io/typing-svg)
 
-# <div style="text-Align:center"> Hi there 👋 , my name is Tariel <br> <p style="text-Align:center">I'm a Junior Frontend developer</p></div>
+# <div style="text-Align:center"> Hi there 👋 , my name is Tariel <br> <p style="text-Align:center">I'm Frontend developer</p></div>
 
 ## Connect with me:
 
