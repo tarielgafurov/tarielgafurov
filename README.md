@@ -3,6 +3,8 @@
 
 ## I'm a frontend developer
 
-languages and Tools
+### languages and Tools
+![html](https://cdn-icons-png.flaticon.com/512/919/919827.png)
+![css](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
 
 
